@@ -1,0 +1,123 @@
+[
+    {
+       "id":1,
+       "name":"Story Book",
+       "title":"Information about the book will be displayed here.",
+       "price":0,
+       "category":"Free",
+       "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1718999093~exp=1719002693~hmac=ec5415e249cd529a6f1841e7dd5849fbc48bec67b04f23faa9ef72b9d15f74d4&w=826"
+
+    },
+
+    {
+      "id":2,
+      "name":"Comic",
+      "title":"Information about the book will be displayed here.",
+      "price":0,
+      "category":"Free",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1718999093~exp=1719002693~hmac=ec5415e249cd529a6f1841e7dd5849fbc48bec67b04f23faa9ef72b9d15f74d4&w=826"
+
+   },
+
+   {
+    "id":3,
+    "name":"Vocabulary",
+    "title":"Information about the book will be displayed here.",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1718999093~exp=1719002693~hmac=ec5415e249cd529a6f1841e7dd5849fbc48bec67b04f23faa9ef72b9d15f74d4&w=826"
+
+   },
+
+   {
+    "id":4,
+    "name":"Science",
+    "title":"Information about the book will be displayed here.",
+    "price":20,
+    "category":"Study",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1718999093~exp=1719002693~hmac=ec5415e249cd529a6f1841e7dd5849fbc48bec67b04f23faa9ef72b9d15f74d4&w=826"
+
+   },
+
+   {
+    "id":5,
+    "name":"Space Adventures",
+    "title":"Information about the book will be displayed here.",
+    "price":40,
+    "category":"Space",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1718999093~exp=1719002693~hmac=ec5415e249cd529a6f1841e7dd5849fbc48bec67b04f23faa9ef72b9d15f74d4&w=826"
+
+   },
+
+   {
+    "id":6,
+    "name":"Bollywood Updates",
+    "title":"Information about the book will be displayed here.",
+    "price":10,
+    "category":"Entertainment",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1718999093~exp=1719002693~hmac=ec5415e249cd529a6f1841e7dd5849fbc48bec67b04f23faa9ef72b9d15f74d4&w=826"
+
+   },
+
+   {
+    "id":7,
+    "name":"Recipe Book",
+    "title":"Information about the book will be displayed here.",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1718999093~exp=1719002693~hmac=ec5415e249cd529a6f1841e7dd5849fbc48bec67b04f23faa9ef72b9d15f74d4&w=826"
+
+   },
+
+   {
+    "id":8,
+    "name":"Novel",
+    "title":"Information about the book will be displayed here.",
+    "price":5,
+    "category":"Novels",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1718999093~exp=1719002693~hmac=ec5415e249cd529a6f1841e7dd5849fbc48bec67b04f23faa9ef72b9d15f74d4&w=826"
+
+   },
+
+   {
+    "id":9,
+    "name":"Self Improvement",
+    "title":"Information about the book will be displayed here.",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1718999093~exp=1719002693~hmac=ec5415e249cd529a6f1841e7dd5849fbc48bec67b04f23faa9ef72b9d15f74d4&w=826"
+
+   },
+
+   {
+    "id":10,
+    "name":"Advice for life",
+    "title":"Information about the book will be displayed here.",
+    "price":30,
+    "category":"Self help",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1718999093~exp=1719002693~hmac=ec5415e249cd529a6f1841e7dd5849fbc48bec67b04f23faa9ef72b9d15f74d4&w=826"
+
+   },
+
+   {
+    "id":11,
+    "name":"Sweet Calories",
+    "title":"Information about the book will be displayed here.",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1718999093~exp=1719002693~hmac=ec5415e249cd529a6f1841e7dd5849fbc48bec67b04f23faa9ef72b9d15f74d4&w=826"
+
+   },
+
+   {
+    "id":12,
+    "name":"Hollywood",
+    "title":"Information about the book will be displayed here.",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1718999093~exp=1719002693~hmac=ec5415e249cd529a6f1841e7dd5849fbc48bec67b04f23faa9ef72b9d15f74d4&w=826"
+
+   }
+
+
+]
