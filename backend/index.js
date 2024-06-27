@@ -4,6 +4,7 @@ import mongoose from "mongoose";
 import cors from "cors";
 import bookRoute from "./route/book.route.js";
 import userRoute from "./route/user.route.js";
+import path from "path";
 
 const app = express();
 
@@ -29,6 +30,16 @@ try {
 
 app.use("/book", bookRoute);
 app.use("/user", userRoute);
+
+// deployment
+if(process.env.NODE_ENV === "production"){
+    const dirPath = path.resolve();
+
+    app.use(express.static("./frontend/dist"));
+    app.get("*",(req,res) => {
+        res.sendFile(path.resolve(dirPath, "./frontend/dist","index.html"));
+    })
+}
 
 app.listen(PORT, () => {
   console.log(`Server is listening on port ${PORT}`);
