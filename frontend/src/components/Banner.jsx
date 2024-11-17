@@ -21,7 +21,7 @@ function Banner() {
       <img src={banner} className='md:w-[550px] md:h-[460px] md:ml-12' alt="" /></div>
     </div>
     </>
-  )
+  );
 }
 
 export default Banner;
